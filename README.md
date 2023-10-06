@@ -4,6 +4,8 @@
 
 Welcome to the Children's Education Program, a gamified learning app designed to make education fun and engaging for children. This app allows two or more teams to participate in educational challenges and quizzes to earn points while improving their knowledge in various subjects. With features like team creation, leaderboards, timers, and voice recognition, learning becomes an exciting adventure for kids of all ages.
 
+Test 10/5/2023
+
 ## Table of Contents
 
 - [Features](#features)
