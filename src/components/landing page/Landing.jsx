@@ -1,7 +1,7 @@
 import Navbar from "./Header/Navbar"
-import Hero from "./Header/Hero"
+import Hero from "./Hero/Hero"
 import Communication from "./Communication/Communication"
-import Footer from "./Header/Footer"
+import Footer from "./Footer/Footer"
 
 function Landing() {
   return (
